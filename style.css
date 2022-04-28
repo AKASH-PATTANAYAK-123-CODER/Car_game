@@ -1,0 +1,30 @@
+#town{
+    background: url(city.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: auto;
+    height: 620px;
+}
+#way{
+    background: url(road.jpg);
+    width: 1515px;
+    height: 120px
+}
+#car{
+    width: 300px;
+    position: absolute;
+    bottom: 60px;
+
+
+}
+#btn{
+    background-color: blueviolet;
+    width:90px;
+    font-size: 24px;
+}
+#botton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
